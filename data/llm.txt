@@ -1,0 +1,22 @@
+Large Language Models (LLMs)
+
+Definition
+LLM stands for Large Language Model. It is an artificial intelligence system trained on very large amounts of text to understand and generate human-like language.
+
+How It Works
+LLMs learn patterns, grammar, context, and relationships between words from massive datasets. They do not think like humans, but they generate responses by predicting the most likely next words based on what they have learned.
+
+Common Uses
+LLMs are used for:
+- answering questions
+- writing and editing text
+- summarizing information
+- translating languages
+- generating code
+- brainstorming ideas
+
+Importance
+Large Language Models are important because they make it easier to interact with technology using natural language. They are widely used in chatbots, education, search tools, customer support, and software development.
+
+Conclusion
+In summary, LLMs are powerful AI systems that can perform many language-related tasks efficiently. Their growing use is transforming how people learn, work, and communicate.
